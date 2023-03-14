@@ -1,6 +1,6 @@
 local UtilityLibrary = {}
 
-local function UtilityLibrary.ChnagePlrHitPart(argstable)
+local function UtilityLibrary.ChangePlrHitPart(argstable)
 
 local name = argstable["Name"]
 local parent = argstable["Parent"]
