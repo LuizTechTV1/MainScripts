@@ -4,7 +4,8 @@ local function UtilityLibrary.ChnagePlrHitPart(argstable)
 
 local name = argstable["Name"]
 local parent = argstable["Parent"]
-local class = argstable["Size"]
+local class = argstable["Class"]
+local size = argstable["Size"]
 local trans = argstable["Transparency"]
 
 
